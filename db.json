@@ -1,0 +1,40 @@
+{
+  "Camisas": [
+    {
+      "id": 2,
+      "time": "Barcelona",
+      "preco": "399,00",
+      "imagem": "https://brechodofutebol.com/wp-content/uploads/2024/12/Untitled1_0003_Photoroom_007_20241221_143856.jpeg-383x510.jpg"
+    },
+    {
+      "id": 3,
+      "time": "Internacional",
+      "preco": "199,00",
+      "imagem": "https://brechodofutebol.com/wp-content/uploads/2024/12/Untitled1_0009_Photoroom_019_20241221_143856.jpeg-383x510.jpg"
+    },
+    {
+      "id": 4,
+      "time": "Argentina",
+      "preco": "499,00",
+      "imagem": "https://brechodofutebol.com/wp-content/uploads/2024/12/Untitled1_0016_Photoroom_033_20241221_143856.jpeg-383x510.jpg"
+    },
+    {
+      "time": "Argélia",
+      "preco": "599,00",
+      "imagem": "https://brechodofutebol.com/wp-content/uploads/2024/12/Untitled1_0013_Photoroom_027_20241221_143856.jpeg-383x510.jpg",
+      "id": 5
+    },
+    {
+      "time": "Alemanha",
+      "preco": "1000,00",
+      "imagem": "https://brechodofutebol.com/wp-content/uploads/2024/12/Untitled1_0015_Photoroom_031_20241221_143856.jpeg-228x306.jpg",
+      "id": 6
+    },
+    {
+      "time": "Racing",
+      "preco": "125,00",
+      "imagem": "https://brechodofutebol.com/wp-content/uploads/2024/12/Untitled1_0018_Photoroom_037_20241221_143856.jpeg-228x306.jpg",
+      "id": 7
+    }
+  ]
+}
