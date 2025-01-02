@@ -9,7 +9,7 @@ e pretendo configurar uma API JSON realtime online para não ser mais necessári
 
 
 ## 🛠️Funcionalidade
-Criar um grid de informações de preço de produtos, no caso CAMISAS DE FUTEBOL
+Criar um grid de informações de preço de produtos, no caso CAMISAS DE FUTEBOL. Você pode fazer isso de forma dinamica colocando NOME, PREÇO e URL da IMAGEM
     
 ## 🚀 Técnicas e tecnologias utilizadas
 
