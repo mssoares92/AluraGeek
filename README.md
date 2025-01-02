@@ -20,9 +20,9 @@ Para o projeto funcionar você precisará realizar esse processo no terminal do 
 
 Abra o Terminal do VsCode
 
-##npm init - Dê ENTER em todas as opções que vão aparecendo
-##npm install json-server 
-##json-server --watch db.json
+1 - npm init - Dê ENTER em todas as opções que vão aparecendo
+2 - npm install json-server 
+3 - json-server --watch db.json
 
 ## 📁 Clonar repositório
   Clone este repositório, link abaixo:
