@@ -30,5 +30,5 @@ Abra o Terminal do VsCode
 
 ## 🛠️ Abrir e rodar
 
-
+Quer visualizar o projeto no ar clique no link ->  https://mssoares92.github.io/AluraGeek/
 
